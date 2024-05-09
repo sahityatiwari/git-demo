@@ -1,9 +1,6 @@
 function print(){
     console,console.log(("hello"));
 }
-function printf(){
-    console,console.log(("hello"));
-}
 
 
 function mul3(){
