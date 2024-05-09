@@ -6,3 +6,6 @@ function print(){
 function mul3(){
     return 3;
 }
+function mul4(){
+    return 4;
+}
